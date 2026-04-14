@@ -1,0 +1,14 @@
+[project]
+name = "bl4_reward_generator"
+version = "1.0.0"
+authors = [{ name = "Cr4nkSt4r" }]
+description = """\
+Spawn any supported reward or a custom serial reward.\n
+GUI can eat some FPS!
+"""
+
+[tool.sdkmod]
+name = "BL4 Reward Generator"
+license = { name = "MIT", url = "https://choosealicense.com/licenses/mit/" }
+download = "https://github.com/Cr4nkSt4r/Borderlands-4.Mods/refs/heads/main/bl4_reward_generator/bl4_reward_generator.sdkmod"
+coop_support = "Unknown"
