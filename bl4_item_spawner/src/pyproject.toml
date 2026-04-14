@@ -1,0 +1,14 @@
+[project]
+name = "bl4_item_spawner"
+version = "1.0.0"
+authors = [{ name = "Cr4nkSt4r" }]
+description = """\
+Spawn different items and other loot.\n
+GUI can eat some FPS!
+"""
+
+[tool.sdkmod]
+name = "BL4 Item Spawner"
+license = { name = "MIT", url = "https://choosealicense.com/licenses/mit/" }
+download = "https://raw.githubusercontent.com/Cr4nkSt4r/Borderlands-4.Mods/refs/heads/main/bl4_item_spawner/bl4_item_spawner.sdkmod"
+coop_support = "Unknown"
